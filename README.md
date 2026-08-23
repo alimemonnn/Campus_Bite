@@ -15,12 +15,13 @@
 4. Configure the database connection in the project.
 5. Run the project through NetBeans.
 
-## Features
+## Project Features
 
-- Student food ordering
-- Menu management
-- Database connectivity
-- Java Swing GUI
+- Student registration
+- Food menu management
+- Food ordering
+- MySQL database connectivity
+- Java Swing graphical interface
 
 Copyright (c) 2000, 2021, Oracle and/or its affiliates.
 
