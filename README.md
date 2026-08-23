@@ -1,3 +1,27 @@
+## Project Setup
+
+### Requirements
+
+- Java JDK
+- NetBeans IDE
+- MySQL
+- XAMPP
+
+### Database Setup
+
+1. Start Apache and MySQL from XAMPP.
+2. Create the Campus Bite database.
+3. Import the required SQL tables.
+4. Configure the database connection in the project.
+5. Run the project through NetBeans.
+
+## Features
+
+- Student food ordering
+- Menu management
+- Database connectivity
+- Java Swing GUI
+
 Copyright (c) 2000, 2021, Oracle and/or its affiliates.
 
 This is a release of MySQL Connector/J, a JDBC Type 4 driver for MySQL that
